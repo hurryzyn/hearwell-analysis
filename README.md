@@ -4,21 +4,21 @@ Exploratory analysis and hypothesis testing of a hearing-wellness survey (N=382,
 
 ## Objective
 
-Determine whether headphone usage habits pose real risks to hearing/social wellbeing, identify the true barrier to hearing-test adoption, and validate which app features and pricing model the target market actually wants — to guide a data-backed Go-to-Market strategy.
+Determine whether headphone usage habits pose real risks to hearing/social wellbeing, identify the true barrier to hearing-test adoption, and validate which app features and pricing model the target market actually wants to guide a data-backed Go-to-Market strategy.
 
 ## Methodology & Tools
 
-- **Data Processing:** Python (Pandas) — cleaning nulls and outliers in age/usage fields
-- **Statistical Testing:** SciPy — Chi-Square test of independence to measure significance between behavioral variables
-- **Visualization:** Seaborn & Matplotlib — demographic breakdowns, correlation heatmaps, Willingness-to-Pay (WTP) segmentation
+- **Data Processing:** Python (Pandas)  cleaning nulls and outliers in age/usage fields
+- **Statistical Testing:** SciPy  Chi-Square test of independence to measure significance between behavioral variables
+- **Visualization:** Seaborn & Matplotlib  demographic breakdowns, correlation heatmaps, Willingness-to-Pay (WTP) segmentation
 
 ## Key Insights
 
 **1. Physical discomfort, not social withdrawal, is the real issue**
-Chi-Square testing found a statistically significant relationship between headphone usage duration and physical ear discomfort (p = 0.009), but no significant relationship between usage duration and missing important sounds or feeling socially isolated (p = 0.551). This disproves the common assumption that heavy headphone use itself erodes public awareness — the real issue is physical tolerance, not attentional/social harm.
+Chi-Square testing found a statistically significant relationship between headphone usage duration and physical ear discomfort (p = 0.009), but no significant relationship between usage duration and missing important sounds or feeling socially isolated (p = 0.551). This disproves the common assumption that heavy headphone use itself erodes public awareness the real issue is physical tolerance, not attentional/social harm.
 
 **2. The barrier to hearing tests is awareness, not cost**
-234 respondents cited lack of awareness as their main reason for never taking a hearing test — far ahead of cost or stigma. This means user acquisition should prioritize education campaigns over discounting or price competition.
+234 respondents cited lack of awareness as their main reason for never taking a hearing test far ahead of cost or stigma. This means user acquisition should prioritize education campaigns over discounting or price competition.
 
 **3. Gen Z wants practicality over medical depth**
 Despite being a health app, the most-requested features were Quick Tests and gamified interactions rather than heavy medical integrations. With Gen Z respondents dominating the sample (287 of 382), gamification is a retention requirement, not a nice-to-have.
