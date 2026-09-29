@@ -1,6 +1,6 @@
 # Hearing Health Behavior Analysis & "Hearwell" Product Validation
 
-Exploratory analysis and hypothesis testing of a hearing-wellness survey (N=382, majority Gen Z) to validate market demand and feature priorities for **Hearwell**, a proposed hearing-health mobile app. The project moves beyond descriptive reporting into diagnostic analytics — using statistical hypothesis testing to validate (or disprove) product assumptions before development resources are committed.
+Exploratory analysis and hypothesis testing of a hearing-wellness survey (N=382, majority Gen Z) to validate market demand and feature priorities for **Hearwell**, a proposed hearing-health mobile app. The project moves beyond descriptive reporting into diagnostic analytics using statistical hypothesis testing to validate (or disprove) product assumptions before development resources are committed.
 
 ## Objective
 
