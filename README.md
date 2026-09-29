@@ -24,11 +24,11 @@ Chi-Square testing found a statistically significant relationship between headph
 Despite being a health app, the most-requested features were Quick Tests and gamified interactions rather than heavy medical integrations. With Gen Z respondents dominating the sample (287 of 382), gamification is a retention requirement, not a nice-to-have.
 
 **4. Awareness converts to willingness to pay**
-195 respondents chose "Maybe, if it offers good value" for a paid app — a pragmatic, not resistant, market. Crosstab analysis further showed that respondents with higher hearing-health awareness were substantially more likely to be willing to pay, confirming that education directly drives monetization potential.
+195 respondents chose "Maybe, if it offers good value" for a paid app a pragmatic, not resistant, market. Crosstab analysis further showed that respondents with higher hearing-health awareness were substantially more likely to be willing to pay, confirming that education directly drives monetization potential.
 
 ## Analytical Value
 
-This project demonstrates the shift from descriptive metrics reporting to diagnostic, decision-ready analytics — using formal hypothesis testing to validate or reject product and market assumptions, helping ensure development resources are not spent on the wrong features or a flawed go-to-market approach.
+This project demonstrates the shift from descriptive metrics reporting to diagnostic, decision-ready analytics using formal hypothesis testing to validate or reject product and market assumptions, helping ensure development resources are not spent on the wrong features or a flawed go-to-market approach.
 
 ## Tech Stack
 
